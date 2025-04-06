@@ -135,16 +135,3 @@ This project utilizes the open dataset from a Portuguese secondary school. Speci
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
----
-
-## 📦 Requirements
-
-Install dependencies using:
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-Let me know if you want a version of this as a downloadable `README.md`, or if you'd like help generating visuals or packaging it for GitHub!
